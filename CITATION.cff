@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Analysis code: Post-release behaviour and rehabilitation success in European hedgehogs"
+abstract: >-
+  R analysis pipeline for a study on the post-release behaviour and
+  rehabilitation success of 26 rehabilitated European hedgehogs
+  (Erinaceus europaeus) released at a single study site in Sachsenhagen,
+  Lower Saxony, Germany, and tracked with an automated VHF telemetry
+  (reverse-GPS / multilateration) system.
+type: software
+authors:
+  - family-names: Steiner
+    given-names: Natalie
+    orcid: "https://orcid.org/0000-0002-5057-1173"
+    affiliation: "University of Veterinary Medicine Hannover (TiHo)"
+version: "1.0.0"
+date-released: "2026-07-29"
+license: MIT
+repository-code: "https://github.com/nataliesteiner/hedgehog-post_release_success_VHF"
+keywords:
+  - hedgehog
+  - Erinaceus europaeus
+  - VHF telemetry
+  - multilateration
+  - rehabilitation
+  - post-release monitoring
+  - movement ecology
+  - chronobiology
