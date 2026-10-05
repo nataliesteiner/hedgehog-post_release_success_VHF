@@ -57,11 +57,7 @@ and `output/` on your machine.
 
 ## Data availability
 
-The raw tracking data are **not** included in this repository (size and access reasons).
-
-- **Animal tracking data (VHF multilateration localizations):** Movebank Data Repository, DOI: *(add once published)* — study "Rehabilitation success in European hedgehogs".
-- **Animal / deployment metadata:** `data_igel.xlsx` (also archived with the tracking data).
-- **Processed activity data:** *(add Zenodo/Dryad DOI if deposited)*.
+The raw tracking data are **not** included in this repository (size and access reasons). The author can be contacted for request.
 
 ## Requirements
 
